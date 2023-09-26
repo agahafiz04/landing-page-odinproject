@@ -4,7 +4,7 @@ Landing Page Powered by The Odin Project
 
 This project is made using html and css especially for exercising in using flex techniques. The contents of this project are commonly description and placeholder with some cat pictures
 
-## [Live Demo](https://agahafiz04.github.io/odin-recipes-odinproject/)
+## [Live Demo](https://agahafiz04.github.io/landing-page-odinproject/)
 
 # Page Preview
 ![screencapture-agahafiz04-github-io-landing-page-odinproject-2023-09-26-10_07_54](https://github.com/agahafiz04/landing-page-odinproject/assets/139210360/a5967065-bd40-41d1-b5cd-8612d3951939)
